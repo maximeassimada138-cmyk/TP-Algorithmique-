@@ -1,2 +1,2 @@
-# TP-Algorithmique-MI2
+# TP-Algorithmique-
 TP Groupe 2
